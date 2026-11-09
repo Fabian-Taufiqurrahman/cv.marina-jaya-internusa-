@@ -21,7 +21,6 @@ nav a{padding:.4rem .75rem;border-radius:99px;text-decoration:none;color:var(--m
 nav a[aria-current="page"]{background:var(--ink);color:var(--bg)}
 .rope{height:14px;background:repeating-linear-gradient(115deg,var(--hemp) 0 9px,transparent 9px 11px,#8c7340 11px 20px,transparent 20px 22px);border-block:1px solid var(--line)}
 main{max-width:1040px;margin:0 auto;padding:2.5rem 1.2rem 4rem}
-.page{display:none}.page.on{display:block}
 .lead{font-size:1.15rem;color:var(--muted)}
 .btns{display:flex;flex-wrap:wrap;gap:.7rem;margin-top:1.5rem}
 .btn{display:inline-block;padding:.75rem 1.3rem;border-radius:6px;font-weight:600;text-decoration:none;background:var(--accent);color:var(--accent-ink);border:2px solid var(--accent);cursor:pointer;font-family:inherit;font-size:1rem}
