@@ -1,3 +1,4 @@
+
 (function(){
   var cur=document.body.getAttribute("data-page");
   document.querySelectorAll("nav a").forEach(function(a){
